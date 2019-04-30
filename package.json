@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Yiool/ty-cli.git"
+    "url": "https://github.com/luozhao91/aimy-cli.git"
   },
   "bin": {
-    "ty-cli": "./bin/www"
+    "aimy-cli": "./bin/www"
   },
   "author": "aimy91",
   "license": "ISC",
