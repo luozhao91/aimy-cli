@@ -1,7 +1,7 @@
 # aimy-cli
 
-whty 前端团队内部基于 vue 开发的项目初始化工具
-旨在统一项目代码风格与规范
+前端 vue 项目的初始化工具
+用于统一项目代码风格与规范，简化配置流程
 内置 vue-router vuex axios Element-ui(pc) Vux(touch) ESlint
 
 ## Installation
